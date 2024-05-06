@@ -34,10 +34,13 @@ STEP 5:Include Necessary parameters in each functions.
 ![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/c3989b66-1235-463e-85f9-c54cbe3ca5e4)
 ![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/77ba48b3-40ac-4e74-8ac5-4b17a144c81b)
 ![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/d0ac5e2a-7f41-4ba5-8b94-ed3ab6d2dc2e)
-
-
-
-
+![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/d531c012-2ed7-4271-bb50-4e23d8ad4b0e)
+![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/31bb681e-5761-48dd-a251-8c52ff925d70)
+![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/8abd6f5a-b866-45e9-95d3-bfe9a6c1fdeb)
+![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/9362f351-5331-4ef7-9ded-1e6cc7d24fcf)
+![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/c3e59f1e-de1d-46aa-9bd0-accdcd0023db)
+![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/21c7dcad-d348-40ee-8d0f-3bfb9d0e6dfd)
+![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/5f08ee38-b14c-4dbb-be9e-77761d985bf7)
 
 # Result:
- Include your result here
+Thus, all the data visualization techniques of seaborn has been implemented.
