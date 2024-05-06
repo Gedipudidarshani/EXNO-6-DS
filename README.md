@@ -26,6 +26,14 @@ STEP 5:Include Necessary parameters in each functions.
 ![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/c40a5f2b-04b1-441b-a042-efa2b6997024)
 ![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/dc824269-185a-4b95-a523-0781fd494746)
 ![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/98b2133d-467a-4bf4-a4c0-dfecac0e269a)
+![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/4c7f77b3-c257-411c-8259-216f203290d6)
+![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/cffe3e2f-7ed7-474f-a911-8b7fa91ddf93)
+![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/b3c00399-ba04-4c0d-a0c1-d9c5f7fde6ca)
+![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/5b063f18-bdd0-4368-b9f2-cfd53125f995)
+![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/51dac23b-4ccd-4122-affc-09a04bbbe9be)
+![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/c3989b66-1235-463e-85f9-c54cbe3ca5e4)
+![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/77ba48b3-40ac-4e74-8ac5-4b17a144c81b)
+![image](https://github.com/Gedipudidarshani/EXNO-6-DS/assets/139340574/d0ac5e2a-7f41-4ba5-8b94-ed3ab6d2dc2e)
 
 
 
